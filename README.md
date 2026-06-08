@@ -47,7 +47,6 @@
 | :---: | :---: |
 | <img src="screenshots/time_picker.jpg" width="250" /> | <img src="screenshots/stats.jpg" width="250" /> |
 
-*(Note: To see these screenshots on GitHub, make sure they are saved in a folder named `screenshots` in the root of your project!)*
 
 ---
 
