@@ -34,11 +34,11 @@ A modern, beautifully designed Habit Tracking application built with Flutter. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SIDDHARTH279/habit-tracker-app.git
+   git clone https://github.com/SIDDHARTH279/HabitFlow.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd habit-tracker-app
+   cd habit_tracker
    ```
 3. Install dependencies:
    ```bash
